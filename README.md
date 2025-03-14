@@ -41,10 +41,6 @@ For a detailed breakdown of the project, check out our full documentation:
 
 👨‍💻 Ali Mahmoad
 
-## 🙌 Acknowledgments
-
-A huge thank you to Cairo University Eco Racing Team (CUERT) for organizing this amazing competition and providing us with valuable resources.
-
 ## 📝 License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
