@@ -27,7 +27,7 @@ For a detailed breakdown of the project, check out our full documentation:
 
 ## 🎖️ Contributors
 
-👨‍💻 [Ahmed Attay](https://www.linkedin.com/in/ahmed-attay-173888252/)
+👨‍💻 [Ahmed Attay](https://www.linkedin.com/in/ahmedattay/)
 
 👨‍💻 [Ali Ibrahim](https://www.linkedin.com/in/ali-khedr-773087205/)
 
